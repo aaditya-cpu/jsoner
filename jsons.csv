@@ -1,0 +1,127 @@
+name,category,allow_category_change,language,components,type,text,example,type,text
+"fee_defaulter_edited
+
+  ",UTILITY,TRUE,en,,BODY,"({{1}}) for {{2}}. Fees due- INR {{3}} Dear Parents, please deposit the necessary dues to avoid the penalty/admission cancellation. Ignore if already paid.","['(Jul,may, apr)','Vidyut', '55550']",FOOTER,Powered by eSchoolApp
+"fees
+
+  ",UTILITY,TRUE,en,,BODY," Dear parents, Kindly deposit the fee up to {{1}} by {{2}}. Ignore the message if already paid.","['July', '15/08/2023.']",FOOTER,Powered by eSchoolApp
+"cbse_icse_state_registration
+
+  ",UTILITY,TRUE,en,,BODY, Dear Parents of {{1}} Attendance of every student is mandatory tomorrow due to need of signature in {{2}} registration document attendance of parent is also compulsory from {{3}} onwards.,"['Anshuman', '10th Board Document', 'Class']",FOOTER,Powered by eSchoolApp
+"test_information_conveyance
+
+  ",UTILITY,TRUE,en,,BODY," Dear Parents, It is to inform you that {{1}} are starting from {{2}}. Please clear all your dues and current year fees before the commencement of the {{3}} to avoid inconvenience.","['Half', '28/08/2023.', 'commencement']",FOOTER,Powered by eSchoolApp
+"exam_postpone
+
+  ",UTILITY,TRUE,en,,BODY," Dear parents, the institute will remain closed from {{1}} till further notice. The final exam is also postponed till further notice. Meanwhile, the office will remain open.",['25/08/2023'],FOOTER,Powered by eSchoolApp
+"fee_balance
+
+  ",UTILITY,TRUE,en,,BODY," Dear parents, Please pay the balance of school fees till {{1}} immediately to avoid stoppage of service. The school office remains open till {{2}}.","['July', '7 PM']",FOOTER,Powered by eSchoolApp
+"documents_admit_card
+
+  ",UTILITY,TRUE,en,,BODY," To collect your {{1}} for appearing in {{2}}. Timing {{3}} to {{4}}. For Class {{5}} Time is from {{6}}. For Class {{7}} Time is from {{8}}. For Class {{9}} Time is from {{10}}. The students must be accompanied by parents, Issued by: {{11}}","['admission letter','10th pre board','9 am','12 pm','9th','10 am','11th','11 am','other','9 am to 12 pm','Dale Public Convent']",FOOTER,Powered by eSchoolApp
+"payment_confirmation_eschool
+
+  ",UTILITY,TRUE,en,,BODY, Thank you for your payment of INR {{1}}. Next payment due date is {{2}}. For any queries Contact: {{3}},"['50000.', '25/08/2023.', '+91-9888999888']",FOOTER,Powered by eSchoolApp
+"leave_approve_reject
+
+  ",UTILITY,TRUE,en,,BODY," Leave Application No {{1}} for {{2}} of {{3}} from {{4}} to {{5}} Reason: {{6}}, has been {{7}} . Please use the application for further updates","['56', 'Afreed', 'Class', '23/08/2023', '25/08/2023', 'Vacation', 'accepted']",FOOTER,Powered by eSchoolApp
+"daylight_savingwinter_time
+
+  ",UTILITY,TRUE,en,,BODY," Dear parents, It is to inform you that we are going to change the timing of the {{1}} from {{2}}. The arrival time will {{3}} and the departure time will be {{4}}. Vehicles will ply accordingly. {{5}} extended during arrival time and {{6}} extended during departure time Thank you","['ABC School, city', '26/01/2023.', '9:00', '3:00', '1', '1']",FOOTER,Powered by eSchoolApp
+"otp
+
+  ",UTILITY,TRUE,en,,BODY," Dear User, We are confirming that the One Time Password (OTP) you received, {{1}}, is for verifying your mobile number for {{2}} . Please use this OTP to complete the verification process. Thank you for using eSchoolApp.","['216120,', 'eSchoolApp']",FOOTER,Powered by eSchoolApp
+"holiday_eschoolapp_internal
+
+  ",UTILITY,TRUE,en,,BODY, {{1}} will be a holiday for MR SOFTWARES owing to the {{2}} . eSchoolApp support will remain unavailable on {{3}}. Thanks,"[""Tuesday,15/08/2023"",""Independence day"",""Tuesday,15/08/2023""]",FOOTER,Powered by eSchoolApp
+"app_short
+
+  ",UTILITY,TRUE,en,,BODY, Dear Parents Please download the {{1}} app. Contact {{2}} for assistance.,"['eSchool', '+91-8889999888']",FOOTER,Powered by eSchoolApp
+"app_install
+
+  ",UTILITY,TRUE,en,,BODY," Dear Parents, We are pleased to announce that we have integrated eSchoolApp into our school's operations. This app will serve as a comprehensive platform for attendance, communication, homework, and more, enhancing your engagement with your child's education journey. Key Features: - Monitor your student's academic progress - Convenient fee payment directly through the app It is mandatory for all parents to install the eSchoolApp for seamless communication and active participation in your child's education. Download eSchoolApp now: Google Play Store: {{1}} Apple App Store: {{2}} Thank you for your continued support.","['https://play.google.com/store/apps/details?id=com.mrsoft.eSchoolappDirectorsApple', 'https://apps.apple.com/us/app/eschoolappThank']",FOOTER,Powered by eSchoolApp
+"admission_open_discount
+
+  ",UTILITY,TRUE,en,,BODY," Admission Alert! The admission process for the academic year {{1}} has started from {{2}} .Confirm your admission now to avail a {{3}} before seats run out. Limited Seats Available. Apply now at {{4}}. Regards, {{5}}","['2024', '12/02/2023', '10%', 'xyz.com', 'The Great Indian School']",FOOTER,Powered by eSchoolApp
+"marksheet_distribution
+
+  ",UTILITY,TRUE,en,,BODY," Dear Students, you are asked to collect {{1}} & {{2}} of {{3}} personally on clearance of your all school dues (If not paid) {{4}}. Timing: {{5}}","['Marksheets', 'Report Cards', 'Session 2022 -23 ', 'District administration']",FOOTER,Powered by eSchoolApp
+"leave_for_government_declaration
+
+  ",UTILITY,TRUE,en,,BODY," Dear Parents, {{1}} will remain closed on {{2}} to {{3}} due to district administration order. {{4}} will remain open. powered by eSchoolApp","['ABC', '26/01/2023', '15/02/2023', 'school']",FOOTER,Powered by eSchoolApp
+"exam_form
+
+  ",UTILITY,TRUE,en,,BODY," Dear Parents, Your child's examination form will be open for registration starting {{1}}. If you're interested, please send your child's {{2}} and {{3}}. The last date for form submission is {{4}}. Thanks & Regards","['25/08/2023.', 'identity', 'Exam', '28/08/2023.Thanks']",FOOTER,Powered by eSchoolApp
+"bunkfarwell
+
+  ",UTILITY,TRUE,en,,BODY, {{1}} has left the school at {{2}},"['Rohit', '13:00 HRS']",FOOTER,Powered by eSchoolApp
+"early_off
+
+  ",UTILITY,TRUE,en,,BODY," Dear parents, Greetings from {{1}} ! This is to inform you that the school timing will be changed from {{2}} due to {{3}}. Reporting time:- {{4}} Departure time:- {{5}} Schedule will remain same until further notice. Thank you!","['Benaras School', '9:00 AM', 'Heavy Rains', '10:00AM', '5:00 PM']",FOOTER,Powered by eSchoolApp
+"payment_confirmation
+
+  ",UTILITY,TRUE,en,,BODY, Thank you for making a payment of INR {{1}}/- towards fees of {{2}}. Please find your payment receipt attached with this message. Happy Learning!,"['20000/-', '25000.']",FOOTER,Powered by eSchoolApp
+"exam_commencement
+
+  ",UTILITY,TRUE,en,,BODY, Exams will commence from {{1}}. Admit card will be issued from {{2}}. Kindly clear the dues to get the admit card.,"['26/08/2023.', '24/08/2023.']",FOOTER,Powered by eSchoolApp
+"tours_and_function
+
+  ",UTILITY,TRUE,en,,BODY," Dear students Reporting time on campus will be {{1}}. Transport vehicles will depart at {{2}} sharply. Dress code will be {{3}} for boys, {{4}} for girls.","['10', '11', 'Jeans - Tshirt,', 'Semi Formal']",FOOTER,Powered by eSchoolApp
+"office_timings
+
+  ",UTILITY,TRUE,en,,BODY," Dear Parents, Office timings are {{1}} to {{2}} until further notice. For any other query, you can call {{3}}.{{4}} Thank You","['8AM', '9PM', '+91-99999999999', 'Dale Public School']",FOOTER,Powered by eSchoolApp
+"annual_function
+
+  ",UTILITY,TRUE,en,,BODY," Dear parents, Greetings from {{1}}! The {{2}} will be conducted on {{3}}. The timing will be from {{4}} to {{5}}. Participants are requested to come to {{6}} at {{7}} and parents can pick them up after the end of the function.","['Takshshela Junior College','Annual function','25/12/2023','10:00 AM', '9:00 PM','Bus Stops','8AM']",FOOTER,Powered by eSchoolApp
+"welcome
+
+  ",UTILITY,TRUE,en,,BODY," Welcome to {{1}} for all-round development of your child. Your registration is confirmed. To track your child's progress in school, please install our official app. Use your registered mobile number to log in and receive OTP. Reminder: If you need any help, please call the school at {{2}}.","['Takshshela', '+91-9988558855.']",FOOTER,Powered by eSchoolApp
+"for_primary_or_small_kids_rest_school_open
+
+  ",UTILITY,TRUE,en,,BODY, Dear parents {{1}} will remain closed for {{2}} to {{3}} from {{4}} to {{5}} due to {{6}}. Regular classes will take place for classes {{7}} to {{8}}.,"""ABC School, City"",""Nursery"",""Grade 1"",""26-01-2023"",""29-01-2023"",""Extreme cold"",""Grade 2"",""Grade 12""",FOOTER,Powered by eSchoolApp
+"_fee_advanced
+
+  ",UTILITY,TRUE,en,,BODY," Dear parents, Kindly deposit the fee up to {{1}} by {{2}} to avoid {{3}}. Ignore the message if already paid.","['Jun', '10/07/2023', 'Penalties.']",FOOTER,Powered by eSchoolApp
+"cheque_status
+
+  ",UTILITY,TRUE,en,,BODY, Cancelled fees receipt due to cheque bounce of Rs. {{1}} for Scholar {{2}} - {{3}}And Receipt No {{4}},"['1000', '334', 'AadityaAnd', '25']",FOOTER,Powered by eSchoolApp
+"opening_of_school
+
+  ",UTILITY,TRUE,en,,BODY," Greetings, Dear parents, {{1}} is reopening on {{2}} for {{3}}. We expect all students to be present on the opening day. Powered by eSchoolApp","['IMC', '25/08/2023', 'Session']",FOOTER,Powered by eSchoolApp
+"stock_stationary_and_uniform
+
+  ",UTILITY,TRUE,en,,BODY, Dear parents It is to inform you that last date for collecting {{1}} from school is {{2}} after that no {{3}} will be available in school Thanks.,"['Uniforms', '25/08/2023', 'Uniforms']",FOOTER,Powered by eSchoolApp
+"hr_admission_test_
+
+  ",UTILITY,TRUE,en,,BODY," Dear Sir/Madam, This is a gentle reminder regarding the {{1}} to be held on {{2}} at {{3}} as part of the selection procedure for {{4}}. Thank you, {{5}}","['Interview', '25/08/2023', 'ISB', 'On', '']",FOOTER,Powered by eSchoolApp
+"fee_in_holiday_breaks
+
+  ",UTILITY,TRUE,en,,BODY," Dear parents, {{1}} office will remain open during the {{2}} holiday from {{3}} to {{4}}. School office is also open during this period .","['Administrative', 'Navratri', '26/01/2023', '3/02/2023.']",FOOTER,Powered by eSchoolApp
+"hr_interview
+
+  ",UTILITY,TRUE,en,,BODY," Dear Sir/Madam, This is a gentle reminder regarding the interview scheduled on {{1}} at {{2}} for the post of {{3}}. Please carry your {{4}} and {{5}}. Thank you,","['25/08/2023', 'IBS', 'Marketing', 'Aadhar', 'relevant']",FOOTER,Powered by eSchoolApp
+"present_absent_new
+
+  ",UTILITY,TRUE,en,,BODY, {{1}} is marked {{2}} on {{3}}. Consolidated attendance is available on the official android/apple application.,"[""Binod"",""Present"",""28/02/2023""]",FOOTER,Powered by eSchoolApp
+"admission_open
+
+  ",UTILITY,TRUE,en,,BODY," Admissions Open for session {{1}} Class {{2}} to {{3}}. Admission Forms will be available from {{4}} to {{5}}. Contact: {{6}} Regards, {{7}}","[""2023-24"",""1"",""12"",""11 AM"",""5 PM"",""+91-9981156525"",""The Delhi Public School""]",FOOTER,Powered by eSchoolApp
+"bunkclasswisesubject_wise
+
+  ",UTILITY,TRUE,en,,BODY, {{1}} is {{2}} in {{3}} on {{4}}. Daily consolidated attendance can be checked in the official android/iOS application.,"[""Aaditya (class 5)"",""present"",""Maths"",""25/08/2023""]",FOOTER,Powered by eSchoolApp
+"fee_form
+
+  ",UTILITY,TRUE,en,,BODY, Welcome to {{1}} Your form has been submitted successfully. Your form ID is {{2}}.,"['Takshshela', '56.']",FOOTER,Powered by eSchoolApp
+"breaks_and_holiday
+
+  ",UTILITY,TRUE,en,,BODY," Dear parents, {{1}} will remain close from {{2}} to {{3}} due to {{4}}. The Institute will reopen on {{5}} on usual time. Thanks {{1}}","['ABC School', '02/02/2023', '20/02/2023,', 'Heavy Rains', '21/02/2023', 'ABC']",FOOTER,Powered by eSchoolApp
+"ptm
+
+  ",UTILITY,TRUE,en,,BODY," Dear parents, We would like to confirm that the Parent-Teacher meeting will be held on {{1}} from {{2}} to {{3}}. Your participation in this meeting is essential. We kindly request all parents to attend, and students should accompany their parents. Thank you for your cooperation.","['26/08/2023', '9:00', '12:00']",FOOTER,Powered by eSchoolApp
+"fees_defaulter_s
+
+  ",UTILITY,TRUE,en,,BODY," {{1}} for {{2}}. Fees due-INR {{3}} Dear Parents, Please deposit the said amount before {{4}}, Ignore if already paid.","[""APR, JUN, JUL"",""Aaditya"",""66666"",""28/03/2023""]",FOOTER,Powered by eSchoolApp
+"exam_time
+
+  ",,TRUE,en,,BODY, Arrival time during {{1}} examination will be {{2}} and departure time will be {{3}}. Transport Vehicle will reach at {{4}} on arrival but will leave earlier during departure.,"[""Half yearly"",""9 AM"",""3 PM"",""8AM""]",FOOTER,Powered by eSchoolApp
