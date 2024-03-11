@@ -112,7 +112,7 @@ name,category,allow_category_change,language,components,type,text,example,type,t
   ",UTILITY,TRUE,en,,BODY, {{1}} is {{2}} in {{3}} on {{4}}. Daily consolidated attendance can be checked in the official android/iOS application.,"[""Aaditya (class 5)"",""present"",""Maths"",""25/08/2023""]",FOOTER,Powered by eSchoolApp
 "fee_form
 
-  ",UTILITY,TRUE,en,,BODY, Welcome to {{1}} Your form has been submitted successfully. Your form ID is {{2}}.,"['Takshshela', '56.']",FOOTER,Powered by eSchoolApp
+  ",UTILITY,TRUE,en,,BODY, Welcome to {{1}} Your form has been submitted successfully. Your form ID is {{2}}.,"['Takshshela', '56']",FOOTER,Powered by eSchoolApp
 "breaks_and_holiday
 
   ",UTILITY,TRUE,en,,BODY," Dear parents, {{1}} will remain close from {{2}} to {{3}} due to {{4}}. The Institute will reopen on {{5}} on usual time. Thanks {{1}}","['ABC School', '02/02/2023', '20/02/2023,', 'Heavy Rains', '21/02/2023', 'ABC']",FOOTER,Powered by eSchoolApp
